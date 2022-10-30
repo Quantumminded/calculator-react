@@ -2,6 +2,8 @@
 calculator project with react 
 
 NO use of math library
+
+
 own internal computation logic 
 
 
