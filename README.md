@@ -7,4 +7,5 @@ NO use of math library
 Own internal computation logic 
 
 
-![Immagine 2022-10-30 162835](https://user-images.githubusercontent.com/107623602/198887171-872397e3-7c06-43b6-9930-6d1c8ec229e0.png)
+![Immagine 2022-10-30 163003](https://user-images.githubusercontent.com/107623602/198887293-14316e07-7838-4815-8014-ec389c5ca58c.png)
+
