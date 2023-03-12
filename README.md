@@ -6,7 +6,6 @@ This is a simple calculator application built with React. The purpose of this pr
 - Addition, subtraction, multiplication and division operations
 - Decimal point input
 - Clear button to reset the calculator
-- Error message when dividing by zero
 
 # How it works
 
