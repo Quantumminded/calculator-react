@@ -1,6 +1,6 @@
 # Calculator Project with React
 
-This is a simple calculator application built with React. The purpose of this project is to showcase the use of React for building a small web application.
+This is a calculator application built with React. The purpose of this project is to showcase the use of React for building a small web application.
 
 # Features
 - Addition, subtraction, multiplication and division operations
