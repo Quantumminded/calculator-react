@@ -5,7 +5,6 @@ This is a calculator application built with React. The purpose of this project i
 # Features
 - Addition, subtraction, multiplication and division operations
 - Decimal point input
-- Clear button to reset the calculator
 
 # How it works
 
